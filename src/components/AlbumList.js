@@ -8,7 +8,7 @@ class AlbumList extends Component {
     super(props);
     this.state = {
       albums: []
-    }
+    };
   }
 
 

@@ -18,10 +18,10 @@ const styles = {
     shadowColor: '#000',
     shadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.3,
-    shdowRadius: 2,
+    shadowRadius: 2,
     elevation: 1,
     marginLeft: 5,
-    marginRiht: 5,
+    marginRight: 5,
     marginTop: 10,
   }
 };
